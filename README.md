@@ -10,8 +10,12 @@
 	<img src="/languages.png" width="700" />
 </p>
 
-<div dir="ltr">🔬Biological knowledge:</div> <div dir="rtl">:Skills🔧</div>
-<p float="center">
-	<img src="/biological.png" width="500"/>
-	<img src="/skills.png" width="500" /> 
+🔬 Biological knowledge:
+<p align="center">
+	<img src="/biological.png" width="700" />
+</p>
+
+🔧 Skills:
+<p align="center">
+	<img src="/skills.png" width="700" />
 </p>
