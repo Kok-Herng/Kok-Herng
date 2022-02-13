@@ -3,8 +3,6 @@
 
 🌱 Currently a final year student pursing Bachelor of Science in Bioinformatics at University of Malaya. Throughout my studies, I have learnt to deal with biological data using software and codes. As an aspiring bioinformatician/data scientist/data analyst, I am currently looking for internships opportunities to improve myself and gain more experience.
 
-📫 reach me
-
 💻Programing languages:
 <p align="center">
 	<img src="/languages.png" width="700" />
