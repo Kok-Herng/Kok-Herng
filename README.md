@@ -1,7 +1,6 @@
-
 ## Hi there 👋 I’m Kok Herng
 
-🌱 Currently a final year student pursuing Bachelor of Science in Bioinformatics at University of Malaya. Throughout my studies, I have learnt to deal with biological data using software and codes. As an aspiring bioinformatician/data scientist/data analyst, I am currently looking for internships opportunities to improve myself and gain more experience.
+🌱 Currently a final year student pursuing Bachelor of Science in Bioinformatics at University of Malaya. Dealing with biological data using software and codes. As an aspiring bioinformatician/data scientist/data analyst, I am currently working on and learning about machine learning.
 
 💻Programing languages:
 <p align="center">
