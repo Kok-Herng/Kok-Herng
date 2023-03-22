@@ -1,7 +1,6 @@
 ## Hi there 👋 I’m Kok Herng
 
-🌱Currently an intern and final year student pursuing Bachelor of Science in Bioinformatics at University of Malaya. Specializing in data analytics with experience of data processing, machine learning and predictive modeling to solve problems and visualize data. I am also familiar with biological data such as
-gene expression, gene classification and sequence analysis.
+🌱Currently a data analyst at Roche, and a recent graduate of Bachelor of Science in Bioinformatics from University of Malaya. Specializing in data analytics with experience of data processing, machine learning and predictive modeling to solve problems and visualize data. I also possess biology background such as gene expression, gene classification and sequence analysis.
 
 💻Programing languages:
 <p align="center">
